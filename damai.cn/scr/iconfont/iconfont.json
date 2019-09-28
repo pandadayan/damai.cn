@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "715855",
+      "name": "本地",
+      "font_class": "bendi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6939266",
+      "name": "三角形",
+      "font_class": "sanjiaoxing",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    }
+  ]
+}
